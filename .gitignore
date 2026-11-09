@@ -1,0 +1,18 @@
+# PyCharm 配置
+.idea/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# Python 虚拟环境
+.venv/
+venv/
+
+# 本地环境变量和密钥
+.env
+.env.*
+!.env.example
+
+# 测试缓存
+.pytest_cache/
